@@ -1,4 +1,4 @@
-# Elasticidade de Preço e Elasticidade Cruzada com Python
+# Elasticidade de Preço e Elasticidade Cruzada: Um estudo de Caso com a categoria "Speaker, Portable, and Bluetooth" na Best buy
 
 ## Sobre o Projeto
 
